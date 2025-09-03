@@ -13,7 +13,7 @@ Source: Modified from official Windows 10 Pro media
 # Download
 You can download the modified ISO from the following link:
 
-Download Windows 10 Pro ISO for Contabo - https://drive.usercontent.google.com/download?id=1TS8EJtr0bNMQPC9Ls7QAQyp_GpkvIE7y&export=download&authuser=0&confirm=t&uuid=76cf0372-ace1-42d1-be8a-227f351a2a76&at=AN8xHoqQeTFIrwqCB49RL_T8UQJ1%253A1756883746058
+Download Windows 10 Pro ISO for Contabo - https://drive.usercontent.google.com/download?id=1TS8EJtr0bNMQPC9Ls7QAQyp_GpkvIE7y&export=download&authuser=0&confirm=t&uuid=76cf0372-ace1-42d1-be8a-227f351a2a76&at=AN8xHoqh0PiomBidDPGMeslfQL3q%3A1756887144649
 
 ## Installation Steps
 Prerequisites
@@ -34,7 +34,7 @@ Select the option to reinstall your operating system
 
 Choose "Custom ISO" as your installation method
 
-Upload the downloaded ISO to your Contabo storage / Using the URL ## https://drive.usercontent.google.com/download?id=1TS8EJtr0bNMQPC9Ls7QAQyp_GpkvIE7y&export=download&authuser=0&confirm=t&uuid=76cf0372-ace1-42d1-be8a-227f351a2a76&at=AN8xHoqQeTFIrwqCB49RL_T8UQJ1%253A1756883746058
+Upload the downloaded ISO to your Contabo storage / Using the URL ## https://drive.usercontent.google.com/download?id=1TS8EJtr0bNMQPC9Ls7QAQyp_GpkvIE7y&export=download&authuser=0&confirm=t&uuid=76cf0372-ace1-42d1-be8a-227f351a2a76&at=AN8xHoqh0PiomBidDPGMeslfQL3q%3A1756887144649
 
 Select the uploaded ISO as your installation media
 
